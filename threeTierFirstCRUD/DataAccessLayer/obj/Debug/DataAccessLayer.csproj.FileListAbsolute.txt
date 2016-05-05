@@ -1,0 +1,5 @@
+c:\users\swornim nepal\documents\visual studio 2012\Projects\threeTierFirstCRUD\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+c:\users\swornim nepal\documents\visual studio 2012\Projects\threeTierFirstCRUD\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+c:\users\swornim nepal\documents\visual studio 2012\Projects\threeTierFirstCRUD\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+c:\users\swornim nepal\documents\visual studio 2012\Projects\threeTierFirstCRUD\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Swornim Nepal\documents\visual studio 2012\Projects\threeTierFirstCRUD\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache

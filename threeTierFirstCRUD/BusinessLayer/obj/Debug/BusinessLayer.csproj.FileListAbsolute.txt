@@ -1,0 +1,7 @@
+c:\users\swornim nepal\documents\visual studio 2012\Projects\threeTierFirstCRUD\BusinessLayer\bin\Debug\BusinessLayer.dll
+c:\users\swornim nepal\documents\visual studio 2012\Projects\threeTierFirstCRUD\BusinessLayer\bin\Debug\BusinessLayer.pdb
+c:\users\swornim nepal\documents\visual studio 2012\Projects\threeTierFirstCRUD\BusinessLayer\obj\Debug\BusinessLayer.dll
+c:\users\swornim nepal\documents\visual studio 2012\Projects\threeTierFirstCRUD\BusinessLayer\obj\Debug\BusinessLayer.pdb
+c:\users\swornim nepal\documents\visual studio 2012\Projects\threeTierFirstCRUD\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+c:\users\swornim nepal\documents\visual studio 2012\Projects\threeTierFirstCRUD\BusinessLayer\bin\Debug\DataAccessLayer.dll
+c:\users\swornim nepal\documents\visual studio 2012\Projects\threeTierFirstCRUD\BusinessLayer\bin\Debug\DataAccessLayer.pdb
